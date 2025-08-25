@@ -49,6 +49,7 @@
   padding: 10px;
   overflow: hidden;
   position: relative;
+  border-right: 1px solid #c0c0c0;
 }
 :host(togostanza-pagination-table)
   .wrapper
@@ -86,7 +87,6 @@
 
 :host(togostanza-pagination-table)
 table {
-  color: red;
   td {
     vertical-align: top;
   }
